@@ -67,7 +67,8 @@ Weighing Machines </br>
 
 ## OUTPUT:
 ## PUSH BUTTON ON:
-![image](https://github.com/user-attachments/assets/dae723dd-e94f-4137-a951-546bc0acbb6b)
+![image](https://github.com/user-attachments/assets/74229171-990d-4ab5-9768-c38f02836624)
+
 ## PUSH BUTTON OFF:
 ![image](https://github.com/user-attachments/assets/574a682f-d8f4-47b1-b1c4-ff462182339a)
 
