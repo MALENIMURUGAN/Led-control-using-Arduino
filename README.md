@@ -1,5 +1,5 @@
-# NAME:MALENI M
-# REGISTER NO:212223040110
+## NAME:MALENI M
+## REGISTER NO:212223040110
 # Exp-1 Led control using Arduino
 
 ## AIM:
@@ -72,4 +72,4 @@ Weighing Machines </br>
 ![image](https://github.com/user-attachments/assets/574a682f-d8f4-47b1-b1c4-ff462182339a)
 
 ## RESULT:
-Thus design and implement of a system for LED control using an Arduino microcontroller and a push button is successfully executed.
+Thus design and implementation of a system for LED control using an Arduino microcontroller and a push button is successfully executed.
