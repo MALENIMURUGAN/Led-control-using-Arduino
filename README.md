@@ -63,7 +63,8 @@ Weighing Machines </br>
 ![image](https://github.com/user-attachments/assets/68fcec31-c58c-4376-b1d8-c643cd43411d)
 
 ## PROGRAM:
-![Screenshot 2025-02-27 184158](https://github.com/user-attachments/assets/3cc8fd0c-0a9d-4a89-85db-15609755a71b)
+![image](https://github.com/user-attachments/assets/3ff91a5c-7141-4def-a5fa-f38b0df51efb)
+
 ## OUTPUT:
 ## PUSH BUTTON ON:
 ![image](https://github.com/user-attachments/assets/74229171-990d-4ab5-9768-c38f02836624)
